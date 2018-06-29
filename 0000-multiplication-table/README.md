@@ -27,4 +27,3 @@ Create as short as possible code in Python 3 that will display multiplication ta
 ```python
 for x in range(1,11):print(10*'%4i'%tuple(range(x,11*x,x)))
 ```
-*by Mateusz*
